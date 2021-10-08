@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalhando no itaú-Unibanco com suporte a empresas ...
-- 🌱 Estudando CSS, Html e JavaScript e não poderia de faltar ( GitHub )
+- 🌱 Estudando CSS, Html, JavaScrip, Python. Dominando o GitHub e alguns macetes em VS Code e Jupiter
 - 👯 Contate-me no email: marcospatton@hotmail.com ou professorpatton@gmail.com
 
 
