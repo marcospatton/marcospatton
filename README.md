@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalhando no itaú-Unibanco com suporte a empresas ...
-- 🌱 Estudando CSS, Html, JavaScrip e Pytho, Linguagem C.
+- 🌱 Estudando CSS, Html, JavaScript e Python, Linguagem C / C++.
 - 👯 Contate-me no email: marcospatton@hotmail.com ou professorpatton@gmail.com / https://www.professorpatton.com.br
 
 
