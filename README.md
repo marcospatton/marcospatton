@@ -44,7 +44,6 @@
   
   [![](https://raw.githubusercontent.com/marcospatton/marcospatton/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-  https://camo.githubusercontent.com/ebe2b29ad0e5a981f862616986286d90895d7a82d0459e87bb512821885135cf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e646572736f6e6c75697a70657265697261266c616e67735f636f756e743d3130
-
+ 
 </div>
 
