@@ -7,9 +7,7 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-    steps:
-    
-    
+    steps:    
       # Summary Cards
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
